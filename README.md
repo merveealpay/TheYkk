@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kaan Karakaya</h1>
-<h3 align="center">A Open source Developer</h3>
+<h3 align="center">An Open source Developer</h3>
 
 <p align="center">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
