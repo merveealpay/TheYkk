@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**TheYkk/TheYkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Kaan Karakaya</h1>
+<h3 align="center">A Open source Developer</h3>
 
-Here are some ideas to get you started:
+- 🔭 My interests are Go, Docker and Kubernetes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+	<img src="https://kubernetes.io/images/favicon.png" alt="kubernetes" width="40" height="40"/>
+</p>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theykk&show_icons=true&theme=tokyonight" alt="akiffeyzioglu" /></p>
+
+<p align="center">
+    <a href="https://twitter.com/ykkcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ykkcode" height="30" width="30" /></a>    
+    <a href="https://theykk.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@theykk" height="30" width="30" /></a>    
+  <a href="https://theykk.net/" target="blank"><img align="center" src="https://theykk.net/favicon.85ae00f2.ico" alt="theykk.net" height="30" width="30" /></a>    
+</p>
