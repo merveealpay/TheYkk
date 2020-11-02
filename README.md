@@ -15,6 +15,5 @@
 
 <p align="center">
     <a href="https://twitter.com/ykkcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ykkcode" height="30" width="30" /></a>    
-    <a href="https://theykk.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@theykk" height="30" width="30" /></a>    
-  <a href="https://theykk.net/" target="blank"><img align="center" src="https://theykk.net/favicon.85ae00f2.ico" alt="theykk.net" height="30" width="30" /></a>    
+    <a href="https://theykk.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@theykk" height="30" width="30" /></a>      
 </p>
