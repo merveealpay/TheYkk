@@ -2,14 +2,17 @@
 <h1 align="center">Hi 👋, I'm Kaan Karakaya</h1>
 <h3 align="center">An Open source Developer</h3>
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-	<img src="https://kubernetes.io/images/favicon.png" alt="kubernetes" width="40" height="40"/>
-</p>
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theykk&show_icons=true&theme=tokyonight" alt="theykk" /></p>
 
