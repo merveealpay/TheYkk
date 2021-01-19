@@ -11,9 +11,14 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitHub](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
-
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![PostgreSql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+![UpWork](https://img.shields.io/badge/-UpWork-black?style=flat-square&logo=upwork)
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theykk&show_icons=true&theme=tokyonight" alt="theykk" /></p>
 
 <p align="center">
