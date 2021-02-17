@@ -4,6 +4,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
