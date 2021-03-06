@@ -20,7 +20,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 ![UpWork](https://img.shields.io/badge/-UpWork-black?style=flat-square&logo=upwork)
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theykk&show_icons=true&theme=tokyonight" alt="theykk" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theykk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="theykk" /></p>
 
 <p align="center">
     <a href="https://twitter.com/ykkcode" target="blank"><img align="center" src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" alt="ykkcode"/></a>    
