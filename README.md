@@ -20,6 +20,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 ![UpWork](https://img.shields.io/badge/-UpWork-black?style=flat-square&logo=upwork)
+![Consul](https://img.shields.io/badge/-Consul-black?style=flat-square&logo=Consul)
 <p align="center"><img align="center" src="https://github-readme-statsv2.vercel.app/api?username=theykk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="theykk" /></p>
 
 <p align="center">
