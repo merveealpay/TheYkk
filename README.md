@@ -13,5 +13,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&=PostgreSQL)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+
 <p align="center"><img align="center" src="https://github-readme-statsv2.vercel.app/api?username=merveealpay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="merveealpay" /></p>
 
