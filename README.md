@@ -14,5 +14,9 @@
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&=PostgreSQL)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 
-<p align="center"><img align="center" src="https://github-readme-statsv2.vercel.app/api?username=merveealpay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="merveealpay" /></p>
 
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=merveealpay&show_icons=true&theme=radical" alt="merveealpay" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merveealpay&layout=compact&hide=html&theme=radical" alt="merveealpay"/>
+</p>
