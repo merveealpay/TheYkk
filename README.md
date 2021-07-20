@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Merve Alpay</h1>
-<h3 align="center">software developer</h3>
+<h3 align="center">software developer in security solutions team</h3>
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
