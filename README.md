@@ -7,12 +7,12 @@
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 ![Jenkins](https://img.shields.io/badge/-jenkins-white?style=flat-square&logo=jenkins)
+![Ansible](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=ansible)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&=PostgreSQL)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 
