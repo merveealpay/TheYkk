@@ -5,7 +5,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 ![Jenkins](https://img.shields.io/badge/-jenkins-black?style=flat-square&logo=jenkins)
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
