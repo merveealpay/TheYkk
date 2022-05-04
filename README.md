@@ -9,7 +9,6 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&=PostgreSQL)
