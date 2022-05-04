@@ -5,12 +5,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Jenkins](https://img.shields.io/badge/-jenkins-black?style=flat-square&logo=jenkins)
-![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 
 
 ### :octocat: Github Statistics
